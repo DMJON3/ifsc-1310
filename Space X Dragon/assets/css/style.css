@@ -92,8 +92,8 @@ header.primary nav a{
 
 ul {
   display: block;
-  margin-block-start:2em;
-  margin-block-end: 2em;
+  margin-block-start:1em;
+  margin-block-end: 1em;
   margin-inline-start: 1px;
   margin-inline-end: 1px;
   padding-inline-start: 40px;
@@ -105,7 +105,7 @@ section#content{
 }
 
 .container{ 
-  width: 100vw;
+  width: 97.3vw;
   margin: 40pxx auto; 
 }
 
@@ -121,7 +121,7 @@ section#acticles .container {
 
 p {
   display: block;
-  margin-block-start: 3rem;
+  margin-block-start: 2rem;
   margin-block-end: 1rem;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
@@ -181,4 +181,8 @@ footer#colophon{
 
 #colophon h6{
   color: black;
+}
+
+img{
+  clip;
 }
